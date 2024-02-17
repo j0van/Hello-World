@@ -1,2 +1,2 @@
-word = 'We all start somewhere.'
-print(f"Hello World.", word)
+word = 'we all start somewhere.'
+print(f"Hello World,", word)
